@@ -8,4 +8,4 @@ Let's change the world using code.
 
 👋 Have a look at [my website](https://moniqueaxt.github.io/).
 
-📫 Contact me: [get in touch](mailto:moniqueaxt@tutanota.com).
+📫 Contact me: [get in touch](mailto:monique.axt@protonmail.com).
