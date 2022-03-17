@@ -6,6 +6,6 @@ Let's change the world using code.
 - 💞️ Dabbled in: C, JavaScript, Python, Linux, database management.
 - 🌱 Currently learning: RxJava, AI algorithms.
 
-👋 Have a look at [my website](https://www.moniqueaxt.com/).
+👋 Have a look at <a href="https://www.moniqueaxt.com/" target="_blank">my website</a>.
 
-📫 Contact me: [get in touch](mailto:contact@moniqueaxt.com).
+📫 Contact me: <a href="mailto:contact@moniqueaxt.com/" target="_blank">get in touch</a>.
