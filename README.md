@@ -2,7 +2,7 @@
 Let's change the world using code.
 <br></br>
 
-- 👀 Main skills: C+, Java
+- 👀 Main skills: C++, Java
 - 💞️ Dabbled in: C, C#, PHP, JavaScript, Python, Linux, database management, Android.
 - 🌱 Currently learning: Development of embedded and Real-Time Systems
 
