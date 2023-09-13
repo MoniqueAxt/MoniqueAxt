@@ -4,7 +4,7 @@ Let's change the world using code.
 
 - 👀 Main skills: C++, Java
 - 💞️ Dabbled in: C, C#, PHP, JavaScript, Python, Linux, database management, Android.
-- 🌱 Currently learning: Development of embedded and Real-Time Systems
+- 🌱 Currently learning: Machine Learning
 
 👋 Have a look at <a href="https://www.moniqueaxt.com/" target="_blank">my website</a>.
 
